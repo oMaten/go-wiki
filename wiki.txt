@@ -1,0 +1,3 @@
+Go Wiki Top
+
+Here is a simple test file.
